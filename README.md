@@ -15,4 +15,4 @@ Graph Theory program with BGI C++
 
 
 
-![alt text](https://www.youtube.com/watch?v=fdUt_yisvJE&lc=z12fefrhsuedht3ww04cjrwr3wq5v3yoqcs)
+![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=fdUt_yisvJE&lc=z12fefrhsuedht3ww04cjrwr3wq5v3yoqcs)
